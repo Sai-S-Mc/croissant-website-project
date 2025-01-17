@@ -13,25 +13,8 @@ body {
     margin:80px auto 0 ;
 }
 .croissant-icon {
-    padding: 3px;
     color: brown;
-    position: relative;
-}
-.icon-homepage {
     font-size: 25px;
-    top: -16px;
-    left:-128px
-}
-.icon-photopage{
-    top: -11px;
-    left:-123px;
-    font-size: 20px;
-}
-.icon-contactpage {
-    top: -14px;
-    left:-43px;
-    rotate : z 21deg;
-    font-size: 20px;
 }
 a {
     color: brown;
