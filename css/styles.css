@@ -1,3 +1,41 @@
+:root {
+    --primary-border-radius: 8px;
+}
 body {
      font-family: "Afacad Flux", serif;
+     background: #a7796d;
+}
+.container  {
+    background: rgb(253, 192, 201) ;
+    max-width: 700px;
+    border-radius: var(--primary-border-radius);
+    text-align: center;
+    margin:80px auto 0 ;
+}
+.croissant-icon {
+    padding: 3px;
+    color: brown;
+    position: relative;
+}
+.icon-homepage {
+    font-size: 25px;
+    top: -16px;
+    left:-128px
+}
+.icon-photopage{
+    top: -11px;
+    left:-123px;
+    font-size: 20px;
+}
+.icon-contactpage {
+    top: -14px;
+    left:-43px;
+    rotate : z 21deg;
+    font-size: 20px;
+}
+a {
+    color: brown;
+}
+a, p {
+    font-size: 17px;
 }
