@@ -28,5 +28,11 @@ footer {
   max-width: 700px;
   border-radius: var(--primary-border-radius);
   text-align: center;
-  margin : 40px auto 20px;
+  margin: 40px auto 20px;
+}
+.heart-icon {
+  color: brown;
+  font-size: 16px;
+  position: relative;
+  bottom: -2.5px;
 }
