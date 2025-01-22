@@ -1,24 +1,32 @@
 :root {
-    --primary-border-radius: 8px;
+  --primary-border-radius: 8px;
 }
 body {
-     font-family: "Afacad Flux", serif;
-     background: #a7796d;
+  font-family: "Afacad Flux", serif;
+  background: #a7796d;
 }
-.container  {
-    background: rgb(253, 192, 201) ;
-    max-width: 700px;
-    border-radius: var(--primary-border-radius);
-    text-align: center;
-    margin:80px auto 0 ;
+.container {
+  background: rgb(253, 192, 201);
+  max-width: 700px;
+  border-radius: var(--primary-border-radius);
+  text-align: center;
+  margin: 80px auto 0;
 }
 .croissant-icon {
-    color: brown;
-    font-size: 25px;
+  color: brown;
+  font-size: 25px;
 }
 a {
-    color: brown;
+  color: brown;
 }
-a, p {
-    font-size: 17px;
+a,
+p {
+  font-size: 17px;
+}
+footer {
+  background: rgb(253, 192, 201);
+  max-width: 700px;
+  border-radius: var(--primary-border-radius);
+  text-align: center;
+  margin : 40px auto 20px;
 }
