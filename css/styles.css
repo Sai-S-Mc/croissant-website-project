@@ -36,3 +36,15 @@ footer {
   position: relative;
   bottom: -2.5px;
 }
+.croissant-type-wrapper{
+    border: 1px solid #A7796D;
+    border-radius:var(--primary-border-radius);
+    margin: 30px;
+    padding: 0 20px;
+}
+.croissant-type-wrapper h3, .croissant-type-wrapper p {
+    text-transform: capitalize;
+}
+.everything{
+    margin-top: 100px;
+}
