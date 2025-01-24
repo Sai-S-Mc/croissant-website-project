@@ -55,25 +55,24 @@ footer {
   width: 251.2px;
 }
 .card-wrapper-plain,
-.card-wrapper-fruitella {
+.card-wrapper-chocolate,
+.card-wrapper-fruitella,
+.card-wrapper-nutty,
+.card-wrapper-cream-cheese {
   height: 376.8px;
+}
+.card-wrapper-everything,
+.card-wrapper-nutty,
+.card-wrapper-cream-cheese {
+  margin-top: 100px;
 }
 .card-wrapper-everything {
-  margin-top: 100px;
   height: 200.738px;
-}
-.card-wrapper-chocolate {
-  height: 376.8px;
-}
-.card-wrapper-nutty {
-  margin-top: 60px;
-  height: 376.8px;
-
 }
 .card-wrapper-bacon {
   height: 376.038px;
 }
-.card-wrapper-veggie  {
+.card-wrapper-veggie {
   height: 167.462px;
 }
 .card-wrapper:hover > .custom-card {
