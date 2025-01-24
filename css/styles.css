@@ -54,7 +54,8 @@ footer {
   perspective: 1000px;
   width: 251.2px;
 }
-.card-wrapper-plain,.card-wrapper-fruitella {
+.card-wrapper-plain,
+.card-wrapper-fruitella {
   height: 376.8px;
 }
 .card-wrapper-everything {
@@ -63,6 +64,9 @@ footer {
 }
 .card-wrapper-chocolate {
   height: 376.8px;
+}
+.card-wrapper-bacon {
+  height: 376.038px;
 }
 .card-wrapper:hover > .custom-card {
   cursor: pointer;
@@ -97,7 +101,7 @@ footer {
   }
 }
 @media (max-width: 576px) {
-  .croissant-type-wrapper{
+  .croissant-type-wrapper {
     margin-left: 0;
     margin-right: 0;
     padding-right: 10px;
@@ -107,7 +111,7 @@ footer {
     font-weight: 600;
     text-align: left;
   }
-  .name span{
+  .name span {
     font-weight: normal;
   }
 }
