@@ -54,7 +54,7 @@ footer {
   perspective: 1000px;
   width: 251.2px;
 }
-.card-wrapper-plain {
+.card-wrapper-plain,.card-wrapper-fruitella {
   height: 376.8px;
 }
 .card-wrapper-everything {
