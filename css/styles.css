@@ -15,6 +15,10 @@ body {
 .croissant-icon {
   color: brown;
   font-size: 25px;
+  transition: all ease-in-out 500ms;
+}
+a:hover > .croissant-icon {
+  transform: rotateX(180deg) rotateY(180deg);
 }
 a {
   color: brown;
