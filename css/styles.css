@@ -68,6 +68,9 @@ footer {
 .card-wrapper-bacon {
   height: 376.038px;
 }
+.card-wrapper-veggie  {
+  height: 167.462px;
+}
 .card-wrapper:hover > .custom-card {
   cursor: pointer;
   transform: rotateY(180deg);
