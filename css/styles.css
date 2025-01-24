@@ -108,7 +108,7 @@ footer {
     border-radius: 0.375rem;
   }
 }
-@media (max-width: 576px) {
+@media (max-width: 575.5px) {
   .croissant-type-wrapper {
     margin-left: 0;
     margin-right: 0;
@@ -118,6 +118,7 @@ footer {
   .name {
     font-weight: 600;
     text-align: left;
+    margin-bottom: 0;
   }
   .name .description {
     font-weight: normal;
