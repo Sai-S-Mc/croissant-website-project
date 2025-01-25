@@ -28,6 +28,9 @@ body {
 background-color:#ead8d354;
 text-align: center;
 }
+.dropdown-menu a {
+  text-transform:capitalize ;
+}
 .dropdown-item:hover {
   background-color: #ffbcc6;
   font-weight: 500;
