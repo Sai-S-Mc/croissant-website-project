@@ -13,7 +13,7 @@ body {
   margin: 80px auto 0;
 }
 .navbar {
-  background-color:#ead8d354;
+  background-color:#F7C8CD;
 }
 .navbar a {
   color:rgb(22, 11, 11);
@@ -25,7 +25,7 @@ body {
   color:#ffbcc6;
 }
 .dropdown-menu{
-background-color:#ead8d354;
+background-color:#F7C8CD;
 text-align: center;
 }
 .dropdown-menu a {
