@@ -12,6 +12,16 @@ body {
   text-align: center;
   margin: 80px auto 0;
 }
+.navbar {
+  background-color:#ead8d354;
+}
+
+.navigation-menu a {
+  color:rgb(22, 11, 11);
+}
+.navbar-toggler {
+  color:#ffbcc6;
+}
 .croissant-icon {
   color: brown;
   font-size: 25px;
